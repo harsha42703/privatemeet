@@ -1,0 +1,17 @@
+body {
+    background:
+    linear-gradient(
+      rgba(255, 255, 255, 0.483), 
+      rgba(5, 238, 255, 0.353)
+    ),
+    url(../src/assets/bg-img.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+

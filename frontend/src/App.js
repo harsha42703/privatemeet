@@ -23,6 +23,7 @@ const useStyles = makeStyles((theme) => ({
     },
   },
   wrapper: {
+    overflow: 'hidden',
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'center',
